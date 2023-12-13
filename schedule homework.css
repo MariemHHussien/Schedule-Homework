@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+    background-color: #ece7e7;
+    
+}
+input{
+    width:100px;
+}
+button{
+    width:80px;
+    height: 40px;
+    border-top-left-radius:8px ;
+    border-top-right-radius: 8px;
+    font-style: italic;
+    text-shadow: 0.5px 0.5px rgb(244, 38, 123);
+    font-size: 17px;
+    border-color:white;
+    border-width: 8px;
+    text-align: center;
+    transition-duration:6s;
+    cursor: pointer;
+    color:rgb(240, 75, 75);
+    font-stretch:narrower;
+    margin-bottom:20px;
+    box-shadow: 0 8px 16px 0 rgba(237, 104, 133, 0.731), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition: all 0.5s;
+}
+button:hover {
+background-color: rgba(190, 189, 197, 0.899);
+padding-right:9px;
+}
+
+#dates{
+    width:130px;
+    border-top-left-radius:5px ;
+    border-top-right-radius: 5px;
+    text-align: center;
+    font-size:large;
+    font-weight: bolder;
+    color:#03045e;
+    background-color: #ffffffd4;;
+    border-color:rgb(240, 28, 28);
+    margin-bottom:12px;
+}
+
+#homework{
+    color:rgb(240, 28, 28);
+    font-style: italic;
+    font-size:350%;
+    margin-top:10px;
+    margin-bottom:12px;
+    text-shadow: 2px 2px;
+    text-shadow: 1px 2px rgb(110, 12, 53);
+    box-shadow: 0 10px 30px 0 rgba(237, 104, 133, 0.731), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+h4{
+    color:#1a0f68;  
+    font-size:25px;
+    font-style: italic;
+    text-shadow: .3px .5px rgb(202, 83, 133);
+}
+#lecturetoday{
+    width:70px;
+}
+#lecturetomorrow{
+    width:70px;
+}
+#div1{
+border-radius: 20px;
+}
+i{
+    color:#1a0f68;  
+    font-size: 25px;
+    font-weight: bolder;
+    
+}
+#submit{
+    color:#03045e;
+    width:190px;
+    font-size: x-large;
+    border-radius: 15px;
+    border-width: 2px;
+    background-color: #050629;
+    color:white;
+}
+#schedule{
+    width:110px;
+}
+#schedule0{
+    text-shadow: 1px 2px rgb(110, 12, 53);
+    box-shadow: 0 10px 30px 0 rgba(237, 104, 133, 0.731), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size:45px;
+}

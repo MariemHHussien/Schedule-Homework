@@ -1,0 +1,41 @@
+div{
+    width:540px;
+    height: 160px;
+    background-color: rgba(244, 141, 163, 0.731);
+    background-color: antiquewhite;
+    margin-left:440px;
+    border-radius: 20px;;
+    text-align: center;
+    padding-top: 10px;;
+    color:rgba(41, 37, 88, 0.976);
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 19px;
+    
+}
+body{
+    background-color: #eee2e2;
+}
+/* button{
+    width:130px;
+    border-radius: 5px;
+    
+    box-shadow: 0 10px 30px 0 rgba(55, 40, 43, 0.731), 0 6px 20px 0 rgba(169, 56, 69, 0.992);
+    color:rgb(113, 113, 191);
+    color:white;
+    font-size:20px;
+    background-color: darkblue;
+} */
+#submit{
+    color:#03045e;
+    width:150px;
+    font-size: x-large;
+    padding-top: -3px;
+    border-radius: 10px;
+    border-width: 2px;
+    background-color: #050629;
+    color:white;
+    padding-left: 10px;
+    margin-top: 10px;
+
+}
